@@ -1,5 +1,3 @@
-# calculadora_shellscript
- Shellscript que executa código em python e armazena os resultados em uma  pasta, criada no momento da execução, tanto no Ubunto e distibuições Debian quanto no Windows.
 # Visão geral
 Este projeto consiste em uma calculadora interativa implementada em Python **calculadora.py**, que permite ao usuário realizar operações matemáticas de maneira similar a uma calculadora física. Além disso, foi desenvolvido um script em Shell Script **calculadora.sh** para automatizar a execução do programa, garantindo compatibilidade com diferentes sistemas operacionais e registrando as operações realizadas.
 
